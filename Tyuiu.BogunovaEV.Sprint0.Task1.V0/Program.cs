@@ -11,12 +11,9 @@ namespace Tyuiu.BogunovaEV.Sprint0.Task1.V0
         static void Main(string[] args)
         {
             Console.WriteLine("Hello,world!");
-
             string name = "Ева";
             int age = 18;
-
             Console.WriteLine("Здравствуйте меня зовут " + name + "мне" + age " лет.");
-
             Console.ReadKey();
         }
     }
